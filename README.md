@@ -6,16 +6,24 @@ You can easily use this tool by uploading a CSV file containing two columns with
 
 
 
-![Screenshot (735)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/f5513269-83dc-4ccd-8cc2-8d24c74bc620)
 
 
-![Screenshot (736)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/92bcd7ee-4bae-4e31-bfe8-c2f337e85b64)
+
+![Screenshot (735)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/509f2339-32a3-42b4-81fb-1393d249a2f6)
 
 
-![Screenshot (737)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/697f177d-1fd0-4576-9b7a-2b28a34b4378)
+
+![Screenshot (736)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/d8983424-92ea-4b35-b561-84572450b30d)
 
 
-![Screenshot (738)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/98757f03-96e4-4c32-b869-e3895df983a5)
+
+
+![Screenshot (737)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/73fa8e6d-6fb0-441a-8e1d-370d32570a58)
+
+
+
+
+![Screenshot (738)](https://github.com/Divyjoshi/Hypothesis-R-Shiny-Dashboard/assets/75930738/08767bd5-d4a5-43fe-a2fd-459570aa6fe7)
 
 
 
