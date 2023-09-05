@@ -1,6 +1,6 @@
 # Statistical Tests Dashboard in Shiny
 
-You can easily use this tool by uploading a CSV file containing two columns with headers. It allows you to instantly conduct statistical calculations on the data. We've included some sample data for you to experiment with, but you're welcome to upload your CSV file if it meets the two-column requirement. Feel free to explore and test the tool by interacting with it.
+You can easily use this tool by uploading a CSV file containing two columns with headers. It allows you to instantly conduct statistical calculations on the data. I have included some sample data for you to experiment with, but you're welcome to upload your CSV file if it meets the two-column requirement. Feel free to explore and test the tool by interacting with it.
 
 ### Dashboard 
 
